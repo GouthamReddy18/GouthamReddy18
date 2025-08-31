@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [BusiReddy Gnana Goutham reddy]
+# Hi there 👋, I'm BusiReddy Gnana Goutham reddy
 
 Welcome to my GitHub profile! 🚀  
 I’m passionate about **technology, coding, and building projects** that make an impact.  
