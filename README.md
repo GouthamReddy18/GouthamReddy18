@@ -5,20 +5,23 @@ I’m passionate about **technology, coding, and building projects** that make a
 
 ---
 
-## 🔥 About Me  
-- 🎓 B.Tech CSE (2nd Year) Student  
-- 💻 Currently learning **DSA in C++** & **Machine Learning**  
-- 🌱 Exploring **IoT projects** and **Web Development**  
-- ⚡ Worked on projects like **Smart Crop Monitor** & **Rover Bot**  
-- 🎯 Goal: To contribute to **open-source** and work on real-world impactful solutions  
+### 💡 About Me
+- 🌐 Skilled in **HTML, CSS, JavaScript**, and modern frontend frameworks.  
+- ⚙️ Currently diving into **Node.js, Express.js, and databases** to build full-stack apps.  
+- 📚 Learning **DSA in C++ & Python** to strengthen my core CS fundamentals.  
+- 🎯 Interested in **Web Development, Open Source, and System Design**.  
+- 💡 Love turning ideas into working solutions with clean & efficient code.  
 
----
+### 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, TailwindCSS, React (basics)  
+- **Backend (Learning):** Node.js, Express.js, MongoDB  
+- **Languages:** C, C++, Python  
+- **Others:** Git, GitHub, VS Code  
 
-## 🛠️ Tech Stack  
-### Languages  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E01D?style=for-the-badge&logo=javascript&logoColor=black)  
+### 📈 Current Focus
+- Mastering **DSA** step by step 📘  
+- Practicing **LeetCode / Codeforces problems** daily 🔥  
+- Building small **backend projects** to gain real-world experience ⚡
 
 ### Tools & Frameworks  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
