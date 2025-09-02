@@ -8,7 +8,7 @@ I’m passionate about **technology, coding, and building projects** that make a
 ## 💡 About Me  
 - 🌐 Skilled in **HTML, CSS, JavaScript**, and modern frontend frameworks.  
 - ⚙️ Currently diving into **Node.js, Express.js, and databases** to build full-stack apps.  
-- 📚 Learning **DSA in C++ & Python** to strengthen my core CS fundamentals.  
+- 📚 Learning **DSA in C & Python** to strengthen my core CS fundamentals.  
 - 🎯 Interested in **Web Development, Open Source, and System Design**.  
 - 💡 Love turning ideas into working solutions with clean & efficient code.  
 
